@@ -22,4 +22,4 @@ extern "C" {
 #define printf printf_
 int _printf(const char *format, ...);
 
-#endif // !MAIN_H
+#endif // _MAIN_H_
